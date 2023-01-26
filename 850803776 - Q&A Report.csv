@@ -1,0 +1,297 @@
+﻿Question Report,
+Report Generated:,"Jan 26, 2023 12:31 PM"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+AWS Cloud Practitioner,850 803 776,"Jan 25, 2023 10:44 AM", 261, 121
+Question Details,
+#,Question,Asker Name,Asker Email,Answer,Question Time,Answered Time,Answer Name,Answer Email
+1,Quick question. ,Pankaj Rajankar,'-,,01/25/2023 12:00:28,,
+2,I am creating AWS account for my self. Can I use my corporate email-id OR do you suggest using personal user id?,Pankaj Rajankar,'-,"Personal, Pankaj.",01/25/2023 12:01:25,01/25/2023 12:01:48,Eian Clair,eian.clair@skillsoft.com
+3,Hi Michael,Kiran Govind,'-,Hi Kiran. Let us know how we can help.,01/25/2023 12:02:08,01/25/2023 12:02:38,Eian Clair,eian.clair@skillsoft.com
+4,No questions as of now. Just wanted to say Hi. Thanks,Kiran Govind,'-,"Sure no problem :) You can use the chat area to chat with the class / Michael, just remember to toggle the chat to ""everyone"" and not just hosts and panelists. 
+
+If you have any troubles during the session or any specific questions, you can use the QA here and I can provide any additional assistance.",01/25/2023 12:03:13,01/25/2023 12:04:15,Eian Clair,eian.clair@skillsoft.com
+5,Isn't AWS cloud offering changing everyday with new stuff added all the time?,Ronald Neely,'-,"That's correct, AWS  always expanding and adding new features and services.",01/25/2023 12:05:28,01/25/2023 12:05:55,Eian Clair,eian.clair@skillsoft.com
+6,"So, given that the AWS cloud offering is always changing, how long can we expect our AWS Certified Cloud Practitioner knowledge to be relevant?",Ronald Neely,'-,"I think it'll generally always be relevant. While we're gaining new features and services routinely, that doesn't make the previous features or services any less valuable or relevant. 
+
+I think as with any Information Technology (IT) career path, it is always growing and expanding so professionals have to keep on top of things and always be growing their skillset.",01/25/2023 12:07:18,01/25/2023 12:09:13,Eian Clair,eian.clair@skillsoft.com
+7,This is the correct github link.  original posted in chat is wrong. https://github.com/Skillsoft-Content/AWSCloud,Anonymous Attendee,,My apologies that was my mistake thank you for letting me know.,01/25/2023 12:12:05,01/25/2023 12:12:32,Eian Clair,eian.clair@skillsoft.com
+8,I just got kicked off what happened,Eric Adams,'-,"Not sure I haven't had that issue in particular. Try joining directly via Zoom using teh below info:
+
+
+Zoom Link: 
+https://skillsoftbootcamp.zoom.us/j/850803776?pwd=N0tFeE9xRGJXNDl6eUJtMUN4N01SQT09
+Webinar ID: 850 803 776
+Passcode: 113554",01/25/2023 12:15:19,01/25/2023 12:16:00,Eian Clair,eian.clair@skillsoft.com
+9,"Hi Michael, when you say traditional cloud model, is there any other model we have to know about? ",David Mukendi kazadi,'-,"we're going to discuss the different models, so that's coming up!",01/25/2023 12:20:12,01/25/2023 12:21:26,Eian Clair,eian.clair@skillsoft.com
+10,"How to decide zones , when we have application scattered over globe  ",Prakash Mohan,'-,"You would essentially choose a region, and the region includes multiple availability zones, which are automatically utilized depending on the end user's location. Regions are indepdendent of each other. 
+
+
+You could have a database and application deployed in multiple servers, across multiple regions.",01/25/2023 12:33:38,01/25/2023 12:36:52,Eian Clair,eian.clair@skillsoft.com
+11,What is "IAM"?,Ronald Neely,'-,Identity and Acess Management (IAM),01/25/2023 12:35:30,01/25/2023 12:37:10,Eian Clair,eian.clair@skillsoft.com
+12,what is IaaS ?,Ahmed Tarek Hasan,'-,"Infrastructure as a Service (IaaS) is a cloud computing model in which a provider makes a variety of computing resources, such as servers, storage, and networking, available to customers over the internet. It allows customers to rent resources on-demand, scaling up or down as needed, without having to make large upfront investments in hardware.",01/25/2023 12:37:31,01/25/2023 12:39:52,Eian Clair,eian.clair@skillsoft.com
+13,What are Edge locations?,PIYUSH PAL,'-,A site that CDN uses to cache copies of your content for faster delivery to users at any location.,01/25/2023 12:38:55,01/25/2023 12:39:39,Eian Clair,eian.clair@skillsoft.com
+14,"The registration email mentioned that we need to create an AWS Free Tier account prior to this course, is that necessary?",Cedric Neergaard,'-,"If you want to go into the sections and explore you can create the account. Otherwise, it's not entirely necessasry. Michael will be going in and showing demos in any case.",01/25/2023 12:39:44,01/25/2023 12:40:43,Eian Clair,eian.clair@skillsoft.com
+15,what is th example for no sql dB?,Vaddey Sri Rama Venkata# Naga Muralidhar,'-,"https://aws.amazon.com/nosql/ 
+
+some examples of why to use NoSQL, and how it works on the above link to the AWS website.",01/25/2023 12:40:03,01/25/2023 12:42:28,Eian Clair,eian.clair@skillsoft.com
+16,Can you please explain two types of DataBases ?,Amitkumar Mayane,'-,"Basically you have a single file database, or a multi-file relational or structured database.",01/25/2023 12:40:39,01/25/2023 12:41:25,Eian Clair,eian.clair@skillsoft.com
+17,In IAAS data is encryption/ decyption is the responsibility of the customer right ?,Yusuf raza ishrat husain Syed,'-,"In Infrastructure as a Service (IaaS) model, the responsibility for data encryption and decryption is typically shared between the customer and the provider.
+
+Customers are responsible for encrypting their data before it is stored or transmitted to the IaaS provider, and for maintaining the encryption keys. This is done to ensure that only authorized parties can access the data.
+
+On the other hand, the IaaS provider is responsible for ensuring that the underlying infrastructure is secure, and for providing mechanisms for customers to encrypt and decrypt their data within their own environment. For example, AWS provides several services like AWS Key Management Service (KMS), Amazon S3 server-side encryption, Amazon Elastic Block Store (EBS) encryption etc that customers can use to encrypt and decrypt their data.
+
+So, while the IaaS provider will provide the tools and infrastructure for customers to encrypt and decrypt their data, it is the customer's responsibility to ensure that the data is secured properly.",01/25/2023 12:46:24,01/25/2023 12:48:05,Eian Clair,eian.clair@skillsoft.com
+18,The regions are under local country laws. so can we choose which regions we want our data are store or not ?,Hugo Poissant,'-,you can choose your regions and deploy only in selected regions.,01/25/2023 12:46:59,01/25/2023 12:48:30,Eian Clair,eian.clair@skillsoft.com
+19,is Email example of PaaS?,Ramya Rama Balegara,'-,"I would say something like email (for example, outlook 365) is SaaS. PaaS examples could be:
+Microsoft Azure
+Red Hat OpenShift
+Oracle Cloud Platform",01/25/2023 12:47:13,01/25/2023 12:50:23,Eian Clair,eian.clair@skillsoft.com
+20,How do we get the session record?,Mohamed Safwat,'-,"Please note, Bootcamp sessions are recorded for your convenience.
+ 
+Session replays are typically made available one to two business days after a session has ended. The session replays will be uploaded to the Bootcamp Channel in Percipio. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. View the replay under the 'Watch' tab",01/25/2023 12:47:48,01/25/2023 12:50:30,Eian Clair,eian.clair@skillsoft.com
+21,what is pass how it is different from sass,Simranjeet Kaur,'-,"PaaS provides a platform for building, deploying, and managing applications, while SaaS provides a software application that is accessed and used through a web browser. PaaS is more suited for developers and organizations that want to build and deploy their own software applications, while SaaS is more suited for end-users who want to use a pre-built software application.",01/25/2023 12:49:39,01/25/2023 12:53:31,Eian Clair,eian.clair@skillsoft.com
+22,Is it possible to expoert all the Q & A posted here?,Kiran Govind,'-,"I can run this by my support team to see if we can have the QA posted to Github/Percipio.
+
+https://github.com/Skillsoft-Content/AWSCloud
+
+Bookmark the above link that is where they will be posted.",01/25/2023 12:51:04,01/25/2023 12:52:16,Eian Clair,eian.clair@skillsoft.com
+23,"Can PaaS exist without also having IaaS, or is IaaS inherent in the PaaS model?",Brandon Rowlen,'-,"PaaS can exist without IaaS, but it typically relies on IaaS in order to function.",01/25/2023 12:51:09,01/25/2023 12:54:39,Eian Clair,eian.clair@skillsoft.com
+24,paas?how it is diff from sass,Simranjeet Kaur,'-,"PaaS provides a platform for building, deploying, and managing applications, while SaaS provides a software application that is accessed and used through a web browser. PaaS is more suited for developers and organizations that want to build and deploy their own software applications, while SaaS is more suited for end-users who want to use a pre-built software application.",01/25/2023 12:51:36,01/25/2023 12:53:34,Eian Clair,eian.clair@skillsoft.com
+25,Thank you,Kiran Govind,'-,You're welcome!,01/25/2023 12:53:22,01/25/2023 12:53:39,Eian Clair,eian.clair@skillsoft.com
+26,Hi Elan Thanks for reponse . I have some where learn recently  that all data stored is AWS S3 bucket and data in transit encrypted by default with AES 256  So customer dont need to encryt the data by themselves  right ?,Yusuf raza ishrat husain Syed,'-,"data stored in Amazon S3 can be configured to  encrypted at rest with AES-256 encryption, but it's not set up that way by default. There are several encryption options that can be chosen.",01/25/2023 12:53:27,01/25/2023 12:58:15,Eian Clair,eian.clair@skillsoft.com
+27,EMR is on which category ?,Narra Tilak Ratan,'-,,01/25/2023 12:53:43,,
+28,EMR is on which category?Iaas/Paas/Saas ? ,Narra Tilak Ratan,'-,Amazon Elastic MapReduce (EMR) is a service provided by Amazon Web Services (AWS) that is a combination of IaaS (Infrastructure as a Service) and PaaS (Platform as a Service) models.,01/25/2023 12:54:20,01/25/2023 12:55:22,Eian Clair,eian.clair@skillsoft.com
+29,What is the Difference betweeb IAAS Database and PAAS Database service ?,Amitkumar Mayane,'-,"the main difference between IaaS databases and PaaS databases is the level of abstraction and the level of control that customers have over the underlying infrastructure. IaaS databases provide customers with full control over the underlying infrastructure, while PaaS databases abstract away the underlying infrastructure and provide a platform for configuring and managing the database.",01/25/2023 12:55:32,01/25/2023 13:03:26,Eian Clair,eian.clair@skillsoft.com
+30,Will the session with Michael's lesson / speaking be upload to the github site or just the PDF's?,Melissa Ditore,'-,"no the session replays are uploaded to Percipio channel only. Are you using Percipio or Skillport? If you are using Skillport, the process to access will be different.",01/25/2023 12:56:24,01/25/2023 12:59:25,Eian Clair,eian.clair@skillsoft.com
+31,"By Using PaaS and SaaS need to install Python ,Java, .Net etc  or AWS will provide these platforms(Python ,Java, .Net etc)
+
+",311104,'-,"For PaaS providers, they typically provide the necessary tools and frameworks for building, deploying, and managing applications, including programming languages like Python, Java, and .Net. For example, AWS Elastic Beanstalk, a PaaS service provided by AWS, supports several programming languages, including Python, Java, and .Net, and includes pre-configured environments for each language. So, if you are using AWS Elastic Beanstalk, you don't need to install these programming languages by yourself.
+
+On the other hand, SaaS providers typically provide a pre-built software application that is accessed and used through a web browser, and the underlying technology stack is abstracted away from the end-user. So, you don't need to install any programming languages like Python, Java, and .Net when using SaaS services.",01/25/2023 12:56:45,01/25/2023 13:02:26,Eian Clair,eian.clair@skillsoft.com
+32,Will this recording be available later on ? Thanks!,Anonymous Attendee,,"Please note, Bootcamp sessions are recorded for your convenience.
+ 
+Session replays are typically made available one to two business days after a session has ended. The session replays will be uploaded to the Bootcamp Channel in Percipio. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. View the replay under the 'Watch' tab",01/25/2023 12:59:20,01/25/2023 12:59:31,Eian Clair,eian.clair@skillsoft.com
+33,I believe AWS released a feature recently wherein data in S3 is automatically encrypted (by default). It happened just a few days ago.,Movva# Rajeev,'-,That's a great insight thank you for sharing :),01/25/2023 12:59:32,01/25/2023 13:01:21,Eian Clair,eian.clair@skillsoft.com
+34,Do we need to create AWS Free Tier account  for this training?,Hema Patel,'-,"techncially you do not have to, as Michael will be showing demos of the interface. We encourage you to create an account so you can try out the platform.",01/25/2023 12:59:56,01/25/2023 13:00:36,Eian Clair,eian.clair@skillsoft.com
+35,https://www.bleepingcomputer.com/news/security/amazon-s3-will-now-encrypt-all-new-data-with-aes-256-by-default/,Movva# Rajeev,'-,"oh interesting! That's good to see, thanks for sharing this insight.",01/25/2023 13:00:15,01/25/2023 13:00:56,Eian Clair,eian.clair@skillsoft.com
+36,Thanks,Hema Patel,'-,You're welcome!,01/25/2023 13:01:20,01/25/2023 13:01:25,Eian Clair,eian.clair@skillsoft.com
+37,I am having a problem where my window closes every 10 min after relogging into the meet. Can you please let me know the problem is?,Anonymous Attendee,,"I would recommend to try and join directly via Zoom and see if that resolves the issue (as opposed to joining directly from Percipio).
+
+Zoom Link: 
+https://skillsoftbootcamp.zoom.us/j/850803776?pwd=N0tFeE9xRGJXNDl6eUJtMUN4N01SQT09
+Webinar ID: 850 803 776
+Passcode: 113554",01/25/2023 13:06:34,01/25/2023 13:08:07,Eian Clair,eian.clair@skillsoft.com
+38,Could you please give me the link with Topics we are expected to understand,Kiran Govind,'-,"A list of all the topics you are expected to understand can be found at the Amazon website. Click the below link and scroll down and click ""Download the exam guide"".
+https://aws.amazon.com/certification/certified-cloud-practitioner/",01/25/2023 13:19:10,01/25/2023 13:19:31,Eian Clair,eian.clair@skillsoft.com
+39,from amazon website,Kiran Govind,'-,,01/25/2023 13:19:27,,
+40,what is hypervisor?,Abhijit Bhosale,'-,"A hypervisor is a software that enables multiple operating systems to share a single hardware host, creating isolated virtual machines that can run their own operating systems and applications.",01/25/2023 13:21:11,01/25/2023 13:21:50,Eian Clair,eian.clair@skillsoft.com
+41,Which are virtulization platforms present to offer AWS On-Primse cloude deployments?,Vikas Khengare,'-,"Amazon Web Services (AWS) offers several virtualization platforms for on-premises cloud deployments, such as AWS Outposts, VMware Cloud on AWS, AWS App Runner, AWS App Mesh, AWS App Config and AWS App Runner. These platforms provide customers with the ability to run AWS infrastructure, services, APIs, and tools on-premises, providing a seamless hybrid experience.",01/25/2023 13:21:35,01/25/2023 13:22:56,Eian Clair,eian.clair@skillsoft.com
+42,Will be explain about VPN on this session ?,Ganesha Ningachar,'-,"With the change in scheduling for today's session, I'm unsure if we'll get to that topic in today's session or not.",01/25/2023 13:22:32,01/25/2023 13:23:27,Eian Clair,eian.clair@skillsoft.com
+43,Wait.  Is my own "on-premise" my own computer and not an AWS offering? If I use "on-premise" I get no bill from AWS?,Ronald Neely,'-,"On-premises refers to the deployment of software, hardware or IT services within an organization's own infrastructure, rather than relying on a third-party service provider or cloud-based service.",01/25/2023 13:24:15,01/25/2023 13:26:52,Eian Clair,eian.clair@skillsoft.com
+44,"what is the difference between private cloud, public cloud & hybrid cloud?",Akash Rathi,'-,"private cloud provides a higher level of control, security, and compliance but required a significant investment, public cloud is highly scalable, cost-effective, and easy to use but may have less control and security and hybrid cloud is a combination of both which allows organizations to use the best of both worlds, it enables organizations to store and process sensitive data on-premises in a private cloud while using public cloud resources for less critical workloads.",01/25/2023 13:25:06,01/25/2023 13:28:18,Eian Clair,eian.clair@skillsoft.com
+45,is that for redudancy?,Altaf Shahpurwala,'-,can you clarify what you mean when you say "that"?,01/25/2023 13:27:10,01/25/2023 13:27:51,Eian Clair,eian.clair@skillsoft.com
+46,"Can you explain difference between region, zone and data centers with examples?",Sonali Kittur,'-,"AWS uses regions as the highest level of geographical abstraction, regions are composed of multiple availability zones, and each availability zone is made up of one or more data centers. By using multiple availability zones, customers can run their applications and data in multiple locations for higher availability.",01/25/2023 13:29:34,01/25/2023 13:32:14,Eian Clair,eian.clair@skillsoft.com
+47,What is the availability zone? can you please mention again?,Ravish Sikha,'-,An availability zone is a logical data center in a region available for use by any AWS customer.,01/25/2023 13:29:58,01/25/2023 13:30:20,Eian Clair,eian.clair@skillsoft.com
+48,are AZ spaced out for redudancy?,Altaf Shahpurwala,'-,"In short, yes. Using multiple availability zones allows customers to run their applications and data in multiple locations for higher availability and fault tolerance.",01/25/2023 13:30:41,01/25/2023 13:32:41,Eian Clair,eian.clair@skillsoft.com
+49,Are Edge locations inside a region like AZs?,Ismael Diaz,'-,"Edge locations are not inside a region, as they are not part of the same isolation domain as regions and availability zones, Edge locations are a separate network of locations that are outside of the regions.",01/25/2023 13:31:30,01/25/2023 13:34:09,Eian Clair,eian.clair@skillsoft.com
+50,what is cloudflare & akamai?,Akash Rathi,'-,These are both content delivery networks (CDN). A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content.,01/25/2023 13:32:31,01/25/2023 13:53:33,Eian Clair,eian.clair@skillsoft.com
+51,So I store my data on a region but it have ( If I want) local replicas on the edge ? Right ?,Hugo Poissant,'-,"Edge locations are specifically designed for caching and delivering content closer to end-users, whereas AZs are primarily focused on providing high availability and fault tolerance for running applications and storing data.",01/25/2023 13:32:44,01/25/2023 13:35:28,Eian Clair,eian.clair@skillsoft.com
+52,got it,Ravish Sikha,'-,,01/25/2023 13:32:48,,
+53,Are any of the edge locations in the U.S. ? ,Anonymous Attendee,,"Edge locations are not inside a region, as they are not part of the same isolation domain as regions and availability zones, Edge locations are a separate network of locations that are outside of the regions. Edge locations are physical locations around the world that are owned and operated by AWS.",01/25/2023 13:32:59,01/25/2023 13:36:03,Eian Clair,eian.clair@skillsoft.com
+54,Do edge locations have physical brick and mortar infrastructure? How do these differ than data centers?  ,Anonymous Attendee,,"Edge locations in AWS are similar to Availability Zones (AZs) in that they are physical locations around the world that are owned and operated by AWS, and connected to the rest of the AWS network via low-latency, high-bandwidth connections. However, Edge locations are designed specifically for caching and delivering content closer to end-users, whereas AZs are primarily focused on providing high availability and fault tolerance for running applications and storing data. Edge locations are outside of the regions.",01/25/2023 13:33:30,01/25/2023 13:36:30,Eian Clair,eian.clair@skillsoft.com
+55,can we say edge locations as duplicate server locations?,Anuramya Nemani,'-,"AWS Edge locations are primarily used to cache and deliver content from Amazon CloudFront and Amazon S3 to end-users with low latency. Edge locations are used to improve the performance and availability of applications by caching content close to the users, this way the users will have a faster access to the content.",01/25/2023 13:33:30,01/25/2023 13:39:45,Eian Clair,eian.clair@skillsoft.com
+56,Do the companies use AWS cloud software to host on-premise cloud in companies' own infrastructure? ,Vikrant Makwana,'-,"Yes, companies can use AWS cloud software to host on-premises cloud in their own infrastructure. This is known as ""AWS Outposts"" which is a fully managed service that extends AWS infrastructure, services, APIs, and tools to virtually any data center, co-location space, or on-premises facility for a truly consistent hybrid experience.",01/25/2023 13:33:32,01/25/2023 13:38:05,Eian Clair,eian.clair@skillsoft.com
+57,what are green circle in the current slide,Pankil Shaileshkumar Sutaria,'-,"I think all were availability zones, but some were ""coming soon"" at the time of the screenshot so they were labelled a bit differently.",01/25/2023 13:34:03,01/25/2023 13:58:31,Eian Clair,eian.clair@skillsoft.com
+58,Edge location comes for extra cost?,Abdul Kazi,'-,"Using AWS Edge locations can incur additional costs, depending on the services and resources you are using.",01/25/2023 13:34:06,01/25/2023 13:40:02,Eian Clair,eian.clair@skillsoft.com
+59,For 5G implementation. Are more Edge locations going to be added? ,Siegfred Sagario,'-,I couldn't honestly say. You would want to do some research on Google about new coming Edge locations for AWS.,01/25/2023 13:34:15,01/25/2023 13:41:32,Eian Clair,eian.clair@skillsoft.com
+60,what is cashing service?,Ravindra Gupta,'-,"essentially, a cache is a store of data. Edge locations ""cache"" or ""store"" data to make it quicker to serve that data to other users in that geographical area whenever it is requested.",01/25/2023 13:34:27,01/25/2023 13:42:29,Eian Clair,eian.clair@skillsoft.com
+61,Are there separate charges for using Availability Zones?,Anonymous Attendee,,"Yes, you will be charged for using multiple Availability Zones (AZs) in AWS.
+
+When you run resources in multiple availability zones, you are essentially running those resources in multiple locations and you will be charged for each location. The cost of running resources in multiple availability zones will depend on the type of resources you are using and the amount of usage.",01/25/2023 13:34:33,01/25/2023 13:42:57,Eian Clair,eian.clair@skillsoft.com
+62,Do you have to select the edge locations to use or can you use all as a global customer/,Melba Herrera,'-,"The use of Edge locations in AWS depends on the service you are using.
+
+For example, if you are using Amazon CloudFront, a content delivery network (CDN) service, you can choose which Edge locations to use for caching and delivering your content. CloudFront allows you to configure the geographic locations in which your content will be cached, this way you can choose the Edge locations that are closest to your users.",01/25/2023 13:34:33,01/25/2023 13:44:07,Eian Clair,eian.clair@skillsoft.com
+63,there is a conflict in a slide  availability zone is 6 or 3 ? ,Yusuf raza ishrat husain Syed,'-,sorry which slide is it that you are referring to?,01/25/2023 13:34:49,01/25/2023 13:56:27,Eian Clair,eian.clair@skillsoft.com
+64,What is the link to spun up a server on AWS?,Kiran Govind,'-,"I cannot provide a link, you must login and then access the relevant service you are looking for. For example, if you want to set up a web server, you can use the Amazon Lightsail service. You can just search for this using the search feature to locate it quickly after logging in. Michael will be doing demos in tomorrow's session I believe.",01/25/2023 13:35:25,01/25/2023 13:46:40,Eian Clair,eian.clair@skillsoft.com
+65,What is the difference between edge locations and AZs?,Ritika Kabra,'-,"Edge locations in AWS are similar to Availability Zones (AZs) in that they are physical locations around the world that are owned and operated by AWS, and connected to the rest of the AWS network via low-latency, high-bandwidth connections. However, Edge locations are designed specifically for caching and delivering content closer to end-users, whereas AZs are primarily focused on providing high availability and fault tolerance for running applications and storing data. Edge locations are outside of the regions.",01/25/2023 13:35:26,01/25/2023 13:44:35,Eian Clair,eian.clair@skillsoft.com
+66,what's difference between Agility & Flexibility,Merajul Hasan Ansari,'-,"In IT, agility refers to an organization's ability to quickly adapt to changing business needs and respond to new opportunities or threats. 
+agility is the ability to quickly adapt to changing business needs, respond to new opportunities or threats, and make changes to IT systems and processes quickly and efficiently, Flexibility refers to the ability to easily adapt to different business scenarios, technologies, and environments, the ability to easily scale, modify, or replace IT systems and processes to meet changing business needs, and the ability to integrate different systems, applications, and technologies to create an overall solution.",01/25/2023 13:35:51,01/25/2023 13:49:09,Eian Clair,eian.clair@skillsoft.com
+67,For 5G implementation. Are more Edge locations going to be added? ,Siegfred Sagario,'-,,01/25/2023 13:41:00,,
+68,"Are you planning to explain AWS from quality engineering perspective? Being a quality engineer, would like to know more about it. Thanks",Anonymous Attendee,,Sorry not exam relevant :(,01/25/2023 13:41:32,01/25/2023 14:19:08,Michael Shannon,michael.shannon@skillsoft.com
+69,which is the most important value proposition-is it cost or security?,Tulasi Kamineni,'-,"the value proposition of cost and security are both important, depending on the specific context and needs of the organization. Organizations may prioritize one over the other depending on their specific needs, but often look for solutions that provide a balance of both cost-effectiveness and security.",01/25/2023 13:44:04,01/25/2023 13:50:05,Eian Clair,eian.clair@skillsoft.com
+70,Will the Q&A also be captured as part of the recording? Some really great discussions are ongoing here :-),Alokenanda Lahiri,'-,"I will request to have the QA made available via GitHub and Percipio! 
+
+Bookmark the below link as it will be posted there:
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 13:45:18,01/25/2023 13:50:37,Eian Clair,eian.clair@skillsoft.com
+71,when will the certificate exam be conducted ?,Anonymous Attendee,,"You schedule your own exam on your own time. 
+
+https://aws.amazon.com/certification/certified-cloud-practitioner/",01/25/2023 13:47:02,01/25/2023 13:51:01,Eian Clair,eian.clair@skillsoft.com
+72,what is an instance?,Hugo Herrera,'-,An instance is a virtual server in the AWS Cloud.,01/25/2023 13:54:20,01/25/2023 13:56:00,Eian Clair,eian.clair@skillsoft.com
+73,Can you give list of services which are always free vs free for specific time which is needed to pass the exam ,Prakash Mohan,'-,"Explore products, use the filter to filter by free, always free, etc. 
+AWS Free Tier
+https://aws.amazon.com/free/
+
+A list of all the topics you are expected to understand can be found at the Amazon website. Click the below link and scroll down and click ""Download the exam guide"".
+https://aws.amazon.com/certification/certified-cloud-practitioner/",01/25/2023 13:59:40,01/25/2023 14:01:54,Eian Clair,eian.clair@skillsoft.com
+74,"SQL database and NoSQL database are always PaaS, right?",Anonymous Attendee,,"No, that is not always the case. Both SQL and NoSQL databases can be deployed as a service (PaaS), but they can also be deployed on-premises or as a part of an infrastructure-as-a-service (IaaS) solution. For example, Microsoft SQL Server and MySQL can be installed on a server, while MongoDB and Cassandra can be run on a cluster of servers.",01/25/2023 14:00:42,01/25/2023 14:02:35,Eian Clair,eian.clair@skillsoft.com
+75,will be continue  session another 30 min or 1 hour ?,Ganesha Ningachar,'-,1 hour I believe.,01/25/2023 14:01:02,01/25/2023 14:02:48,Eian Clair,eian.clair@skillsoft.com
+76,Are the Q/A content available when the session ends?  Or any way to download?,Kevin Liu,'-,"I will request to have the QA uploaded to Percipio and Github after the session has ended.
+
+GitHub Link:
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 14:01:25,01/25/2023 14:03:36,Eian Clair,eian.clair@skillsoft.com
+77,"If I reserve EC2 instance for 3 years , then where is the aspect of scaling-out/scaling-in ?",Babul Kumar Jha,'-,live answered,01/25/2023 14:01:35,01/25/2023 14:04:04,Eian Clair,eian.clair@skillsoft.com
+78,what happens to the account once you sign in for 12 month free tier? are they gonna charge you for something even if you've never used it? ,Filippo Virdis,'-,"review the related FAQ question on the following page:
+
+https://aws.amazon.com/free/free-tier-faqs
+
+""When an account goes over the free tier limit, the standard AWS service rates will be billed to your credit card.""",01/25/2023 14:04:11,01/25/2023 14:05:25,Eian Clair,eian.clair@skillsoft.com
+79,sorry what do you plug in here to know your consumption?,Altaf Shahpurwala,'-,"there are some good examples of this in action you can refer to, in addition to other useful best practices, a getting started guide, etc. (see table of contents on the left to visit the various sections) 
+
+https://docs.aws.amazon.com/pricing-calculator/latest/userguide/what-is-pricing-calculator.html",01/25/2023 14:04:18,01/25/2023 14:06:42,Eian Clair,eian.clair@skillsoft.com
+80,"I used how much storage i paid for that , is this option avliable in AWS ?",311104,'-,"Pay only for what you use.
+
+You can learn more about the pricing for storage at the Amazon website:
+
+https://aws.amazon.com/s3/pricing/",01/25/2023 14:04:19,01/25/2023 14:10:52,Eian Clair,eian.clair@skillsoft.com
+81,Will there be a link to these slides or download available?,Kevin Jackson,'-,"The course files have been uploaded to the Bootcamp Channel in Percipio. Please visit the Bootcamp Channel in Percipio and select the Resources drop-down to locate the course files. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow these steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. On the Channel page, select 'Resources'
+ 
+You may also download the course files online at GitHub using the below URL. Once on the GitHub page, download the course files by selecting the ‘Code’ button and then ‘Download ZIP’. 
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 14:11:07,01/25/2023 14:12:48,Eian Clair,eian.clair@skillsoft.com
+82,"sure, thanks!",Anonymous Attendee,,You're welcome!,01/25/2023 14:12:06,01/25/2023 14:12:54,Eian Clair,eian.clair@skillsoft.com
+83,"serverless is not actually without servers, it is just the Customer does not need to create the EC2 instances but it still needs servers for the operations?",Altaf Shahpurwala,'-,"yes, serverless just means that the customer is not managing or replacing, etc. the servers, but servers are still used for sure.",01/25/2023 14:14:03,01/25/2023 14:14:47,Eian Clair,eian.clair@skillsoft.com
+84,How would AWS practitioner certification help quality engineers especially one who is working with large data testing?,Sonali Kittur,'-,You would need to go deeper into the AWS Architect path,01/25/2023 14:14:56,01/25/2023 14:19:48,Michael Shannon,michael.shannon@skillsoft.com
+85,Is Bootcamp on a Mac similar to a hybervisor?,Susanne Magerhans,'-,"not exactly, but close. 
+
+Parallels would be a better example, achieves similar outcome, but completely virtual.",01/25/2023 14:14:59,01/25/2023 14:16:00,Eian Clair,eian.clair@skillsoft.com
+86,does hypervisor require dedicated hardware? does my PC enable hypervisor just with the software?,Ramya Rama Balegara,'-,live answered,01/25/2023 14:15:31,01/25/2023 14:16:25,Eian Clair,eian.clair@skillsoft.com
+86,does hypervisor require dedicated hardware? does my PC enable hypervisor just with the software?,Ramya Rama Balegara,'-,"Michael explained it, but in case you didn't quite catch it, Type 1 hypervisors run on dedicated hardware, 
+
+Type 2 hypervisors can work on top of base operating system.",01/25/2023 14:15:31,01/25/2023 14:17:43,Eian Clair,eian.clair@skillsoft.com
+87,"Ah,parallels was my next assumption. Thank you, Eian.",Susanne Magerhans,'-,"You're welcome! 
+
+To clarify, Bootcamp is more like a dual-boot enabled solution, so it's not a type 2 hypervisor like Parallels is.",01/25/2023 14:17:02,01/25/2023 14:19:06,Eian Clair,eian.clair@skillsoft.com
+88,Micheal has shown in region slide it is 6  zone but at same time he said it is 3 avaibility zone so i got confused which is correct one,Yusuf raza ishrat husain Syed,'-,"Every AWS region has at least 3 zones. Some regions have more - Virginia has 6, Tokyo has 4 or 5. Thanks",01/25/2023 14:17:21,01/25/2023 14:20:47,Michael Shannon,michael.shannon@skillsoft.com
+89,how can I get the session record link + session slides ?,Ahmed Tarek Hasan,'-,"The course files and session replays will be uploaded to the Bootcamp Channel in Percipio. Please visit the Bootcamp Channel in Percipio and select the Resources drop-down to locate the course files. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow these steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. On the Channel page, select 'Resources'
+ 
+You may also download the course files online at GitHub using the below URL (note, not the replays on github, just the resources). Once on the GitHub page, download the course files by selecting the ‘Code’ button and then ‘Download ZIP’. 
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 14:18:19,01/25/2023 14:19:50,Eian Clair,eian.clair@skillsoft.com
+90,How would AWS cloud practitioner certificate helps for SRE and devop engineers,Nanaji Sanka,'-,"The AWS Certified Cloud Practitioner offers a foundational understanding of AWS Cloud concepts, services, and terminology. This is a good starting point for individuals in non-technical roles with no prior IT or cloud experience or for those with on-premises IT experience looking for basic AWS Cloud fluency.",01/25/2023 14:21:36,01/25/2023 14:22:11,Eian Clair,eian.clair@skillsoft.com
+91,What are other cloud courses available in AWS for certification ?,Nanaji Sanka,'-,"https://aws.amazon.com/certification/
+
+Click the above link and scroll down to Available AWS Certifications for a listing of all the available certs.",01/25/2023 14:23:36,01/25/2023 14:24:33,Eian Clair,eian.clair@skillsoft.com
+92,How do you save the Q & A comments?   There is a lot of useful information. ,Thomas Burke,'-,"I will have the content team make the QA available via Percipio and Github after the session has ended.
+
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 14:26:17,01/25/2023 14:30:05,Eian Clair,eian.clair@skillsoft.com
+93,Is the audio/video issue going to be resolved?,Manoj Balachandran,'-,"There is no audio/video issue. If your audio/video is not working, please try refreshing your browser window. If the issue persists, please try connecting via Zoom directly using the below information. 
+
+Zoom Link: 
+https://skillsoftbootcamp.zoom.us/j/850803776?pwd=N0tFeE9xRGJXNDl6eUJtMUN4N01SQT09
+Webinar ID: 850 803 776
+Passcode: 113554",01/25/2023 14:29:36,01/25/2023 14:30:40,Eian Clair,eian.clair@skillsoft.com
+94,Does EC2 stand for Elastic Container 2?,Altaf Shahpurwala,'-,Amazon Elastic Compute Cloud (Amazon EC2),01/25/2023 14:30:35,01/25/2023 14:31:12,Eian Clair,eian.clair@skillsoft.com
+95,Can I deploy my app in a Docker container on AWS?,Ronald Neely,'-,"https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-container-image.html
+
+This guide talks about that very concept it may be of interested to you.",01/25/2023 14:31:31,01/25/2023 14:40:29,Eian Clair,eian.clair@skillsoft.com
+96,Can i directly acces the github or need to signup?,311104,'-,"no account necessary, can access by simply clicking the link.
+
+Once on the GitHub page, download the course files by selecting the ‘Code’ button and then ‘Download ZIP’. 
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 14:31:37,01/25/2023 14:33:27,Eian Clair,eian.clair@skillsoft.com
+97,Is container and docker same thing?,Sonam Jamtsho,'-,"No, a container is a lightweight, standalone, executable package that includes everything needed to run a piece of software, including the code, a runtime, system tools, libraries, and settings. Docker is a platform and tool for building, shipping, and running containerized applications. In other words, Docker is a tool that allows you to create, deploy, and run containers, while a container is the package that runs the software.",01/25/2023 14:31:57,01/25/2023 14:34:29,Eian Clair,eian.clair@skillsoft.com
+98,Bad link for the youtube video? ,John Martin,'-,"link works. 
+https://youtu.be/hvdmDMiV49k",01/25/2023 14:32:27,01/25/2023 14:33:05,Eian Clair,eian.clair@skillsoft.com
+99,"Thanks, I will connect through Zoom.",Manoj Balachandran,'-,You're welcome!,01/25/2023 14:33:34,01/25/2023 14:33:47,Eian Clair,eian.clair@skillsoft.com
+100,Could you please give the youtube link Michael entered in the chat. I cannot copy from the chat.,Kiran Govind,'-,"Yiou can still click/tap the link and it should open in a new browser window automatically. 
+
+Here is the link again: 
+
+https://youtu.be/hvdmDMiV49k",01/25/2023 14:33:38,01/25/2023 14:34:13,Eian Clair,eian.clair@skillsoft.com
+101,is there way to export the chat ,Anonymous Attendee,,"No there is not, unfortunately. I will see if the chat can be made available as a file along with the QA. These will be uploaded to the GitHub after the session has ended. 
+
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 14:34:20,01/25/2023 14:35:13,Eian Clair,eian.clair@skillsoft.com
+102,For the AWS Free Tier Account should that be considered a work associated account or personal account? For the credit card should it be a personal credit card or a work issued credit card?,Anonymous Attendee,,probably personal across the board unless you have been specifically told otherwise.,01/25/2023 14:36:01,01/25/2023 14:36:50,Eian Clair,eian.clair@skillsoft.com
+103,"If we fail exam, do we need to pay again for second take ?",Anonymous Attendee,,"If you fail an exam, you must wait 14 days before you are eligible to retake the exam. There is no limit on exam attempts. However, you must pay the full registration fee for each exam attempt. Once you have passed an exam, you will not be able to retake the same exam for two years. If the exam has been updated with a new exam guide and exam series code, you will be eligible to take the new exam version.",01/25/2023 14:42:28,01/25/2023 14:43:11,Eian Clair,eian.clair@skillsoft.com
+104,Thanks Michael for response I got it now.,Yusuf raza ishrat husain Syed,'-,,01/25/2023 14:42:30,,
+105,"please provide  URL, thanks...",Wil Pickens,'-,url for ?,01/25/2023 14:44:03,01/25/2023 14:44:26,Eian Clair,eian.clair@skillsoft.com
+106,"network book, please",Radu-Gabriel Ioan,'-,Network+ All-in-one-guide,01/25/2023 14:46:14,01/25/2023 15:04:22,Michael Shannon,michael.shannon@skillsoft.com
+107,"the site that had information on support info, Infrastructure event management, etc...",Wil Pickens,'-,"https://aws.amazon.com/premiumsupport/plans/
+
+Sorry, I needed to clarify I had some link requests earlier for a different link.",01/25/2023 14:46:23,01/25/2023 14:47:10,Eian Clair,eian.clair@skillsoft.com
+108,What is VPG?,PIYUSH PAL,'-,"virtual private gateway (VPG) In a nutshell, A Virtual Private Gateway is a way for you to land in your cloud when creating a VPN tunnel.",01/25/2023 14:47:20,01/25/2023 14:49:00,Eian Clair,eian.clair@skillsoft.com
+109,no problem,Wil Pickens,'-,,01/25/2023 14:48:19,,
+110,How to get the range of IP address we have with a CIDR value?,Kshitij Tripathi,'-,"There are subnetting videos available on the learning platform to reference if you are looking for a step-by-step for how ot subnet. 
+
+You can always use a subnet calculator to check your work:
+
+https://www.calculator.net/ip-subnet-calculator.html",01/25/2023 14:49:17,01/25/2023 14:50:11,Eian Clair,eian.clair@skillsoft.com
+111,Ok Thanks Eian,Kshitij Tripathi,'-,You are welcome!,01/25/2023 14:50:54,01/25/2023 14:51:02,Eian Clair,eian.clair@skillsoft.com
+112,is vpn and vpg same?,Ravindra Gupta,'-,live answered,01/25/2023 14:59:25,01/25/2023 15:00:41,Eian Clair,eian.clair@skillsoft.com
+113,"Hi, will their be more of CCNP, CCIE or CCSP level questions ? ",Vishal Gayakwad,'-,Do you mean Bootcamps by chance? I'm not sure I understand your question.,01/25/2023 15:00:28,01/25/2023 15:01:28,Eian Clair,eian.clair@skillsoft.com
+114,AWS cloud certification exam ,Vishal Gayakwad,'-,"They will not be CCNP type questions most certainly. 
+
+A list of all the topics you are expected to understand can be found at the Amazon website. Click the below link and scroll down and click ""Download the exam guide"".
+https://aws.amazon.com/certification/certified-cloud-practitioner/",01/25/2023 15:02:28,01/25/2023 15:03:19,Eian Clair,eian.clair@skillsoft.com
+115,Is recording available?,Paul Michels,'-,"Please note, Bootcamp sessions are recorded for your convenience.
+ 
+Session replays are typically made available one to two business days after a session has ended. The session replays will be uploaded to the Bootcamp Channel in Percipio. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. View the replay under the 'Watch' tab",01/25/2023 15:03:46,01/25/2023 15:04:02,Eian Clair,eian.clair@skillsoft.com
+116,"Hi Eian, when will the recording be available? ",Samiksha Singh,'-,"Please note, Bootcamp sessions are recorded for your convenience.
+ 
+Session replays are typically made available one to two business days after a session has ended. The session replays will be uploaded to the Bootcamp Channel in Percipio. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. View the replay under the 'Watch' tab",01/25/2023 15:03:50,01/25/2023 15:04:01,Eian Clair,eian.clair@skillsoft.com
+117,Bye bye!,Jimmy Hood,'-,Thanks for attending!,01/25/2023 15:04:09,01/25/2023 15:04:17,Eian Clair,eian.clair@skillsoft.com
+118,When will this recording be posted? where will it be posted? ,Anonymous Attendee,,"Please note, Bootcamp sessions are recorded for your convenience.
+ 
+Session replays are typically made available one to two business days after a session has ended. The session replays will be uploaded to the Bootcamp Channel in Percipio. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow the below steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. View the replay under the 'Watch' tab",01/25/2023 15:04:24,01/25/2023 15:04:39,Eian Clair,eian.clair@skillsoft.com
+119,When will the 2 x PDFs be given?,Umar Nasir,'-,"The course files have been uploaded to the Bootcamp Channel in Percipio. Please visit the Bootcamp Channel in Percipio and select the Resources drop-down to locate the course files. 
+ 
+To locate the Bootcamp Channel in Percipio, please follow these steps:
+1. Log into Percipio
+2. Select 'Library' > 'Skillsoft Bootcamps' > 'Cloud Services Bootcamps'
+3. Choose 'AWS Cloud Practitioner Bootcamp'
+4. On the Channel page, select 'Resources'
+ 
+You may also download the course files online at GitHub using the below URL. Once on the GitHub page, download the course files by selecting the ‘Code’ button and then ‘Download ZIP’. 
+https://github.com/Skillsoft-Content/AWSCloud",01/25/2023 15:04:27,01/25/2023 15:04:35,Eian Clair,eian.clair@skillsoft.com
+120,Why aren't the questions the the Q&A sorted by time?,Ronald Neely,'-,"Good question, we have engaged with zoom to have more options in this regard.",01/25/2023 15:04:53,01/25/2023 15:05:32,Eian Clair,eian.clair@skillsoft.com
+121,Thank you,Manohar.Boothpur,'-,,01/25/2023 15:05:28,,
