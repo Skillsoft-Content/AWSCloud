@@ -1,0 +1,52 @@
+﻿Question Report
+Report Generated:,"Mar 13, 2024 11:02:03"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+AWS Cloud Practitioner,850 803 776,"Mar 12, 2024 09:41:08",329,20
+Question Details
+#,Question,Asker Name,Asker Email,Answer,Question Time,Answered Time,Answer Name,Answer Email
+1,unable to hear the voice...,Kunal Shah,'-,"I would suggest trying the following direct Zoom link and passcode to connect to the session instead of joining from your training site.
+Please click the link below to join the webinar: https://skillsoftbootcamp.zoom.us/j/850803776?pwd=N0tFeE9xRGJXNDl6eUJtMUN4N01SQT09
+Passcode: 113554",03/12/2024 11:02:24,03/12/2024 11:02:42,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+2,"Hi , enabled the audio settings but still no audio",Safna Jalaludeen,'-,try exiting and then rejoining the session.,03/12/2024 11:03:06,03/12/2024 11:03:28,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+3,"Very inspiring, Michael!!",Rikard Ndreu,'-,,03/12/2024 11:33:23,,
+4,"is Zero Trust best practice, or is it required to use the cloud provider?",Arne Bakken,'-,"A best practice, good question",03/12/2024 12:24:36,03/12/2024 12:26:51,Michael Shannon,michael.shannon@skillsoft.com
+5,may you please include the link to the log again today?,K Roger,'-,"You can access the Bootcamp slides from the AWS Cloud Practitioner Bootcamp channel in Percipio, please follow these steps.
+ 
+1. Log into Percipio
+2. Select Library > Skillsoft Bootcamps
+3. Select Cloud Services Bootcamp
+4. Select AWS Cloud Practitioner Bootcamp
+5. Click the Resources dropdown on the right-hand side. 
+You can also download the slides and other documents associated with the Bootcamp from the following Github repository.  Github: https://github.com/Skillsoft-Content/AWSCloud",03/12/2024 13:04:30,03/12/2024 13:05:42,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+6,"Not a question but more like suggestion, usually main chat is not used by trainers but in that case it is, it might be better to block it for listeners so only important things would be there and the rest here",Paweł Florek,'-,"Sure, that makes sense. However, it is also kept open for participants for interacting on the current topics with the instructor.",03/12/2024 13:18:34,03/12/2024 13:26:12,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+7,thank you --- I'm referring to a link that Host provided yesterday to see some AWS log online,K Roger,'-,Can you be nore specific K? I'm still not grasping the question. Thanks.,03/12/2024 13:23:29,03/12/2024 13:52:24,Michael Shannon,michael.shannon@skillsoft.com
+8,"How can I get the class recordings?
+",KUO-LIANG TANG,'-,"Here are the steps to access the recordings. They will be added within 24 to 48 hours after it's live session.
+1. Log into Percipio
+2. Select Library > Skillsoft Bootcamps
+3. Select Cloud Services Bootcamp
+4. Select AWS Cloud Practitioner Bootcamp",03/12/2024 13:53:42,03/12/2024 13:55:31,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+9,"From an enviornmental point of view, is the total power consumption from having everything in the cloud less than if you should run your own? You only access what you need at any time, but is that displaced by the data centers having a 100% uptime?",Arne Bakken,'-,Cloud computing can be more energy-efficient than running your own servers because cloud providers can take advantage of economies of scale to optimize their data centers for energy efficiency.,03/12/2024 14:22:42,03/12/2024 14:50:50,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+10,"I do not see the ""Test Tips"" document in 
+ Library > Skillsoft Bootcamps> Cloud Services Bootcamp>Select AWS Cloud Practitioner Bootcamp > Resources . Where else could I find the Test Tips document ?",Keerthi Chenna Reddy,'-,"It will be uploaded shortly on Percipio and github.
+Github: https://github.com/Skillsoft-Content/AWSCloud",03/12/2024 14:41:40,03/12/2024 15:07:03,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+11,"Hello, What is the difference in Aurora Postgres and normal Postgres in RDS?",Faizan Siddiqui,'-,Michael answered live.,03/12/2024 14:44:02,03/12/2024 14:58:14,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+12,Hello. How can we obtain some mockup exam questions?,Rikard Ndreu,'-,"For practice test please follow these steps.
+ 
+1. Log into Percipio
+2. Select Library > Skillsoft Bootcamps
+3. Select Cloud Services Bootcamp
+4. Select AWS Cloud Practitioner Bootcamp
+5. Click the Practice tab to access the practice TestPrep.",03/12/2024 15:00:18,03/12/2024 15:02:47,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+13,Can We host postgres in our EC2 instance ? so we have everything on the same server?,Faizan Siddiqui,'-,Yes. That would be IaaS in EC2,03/12/2024 15:00:31,03/12/2024 15:08:42,Michael Shannon,michael.shannon@skillsoft.com
+14,Please share the links to download the test tips,Bharat Batchu,'-,"Sure, it will be uploaded shortly on Percipio and github.
+Github: https://github.com/Skillsoft-Content/AWSCloud",03/12/2024 15:02:30,03/12/2024 15:06:10,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+15,"Followup on Direct Connect, a cable has to be directly between the center and client. Is that something something that has to be deployed and built? Cable networks already connected do go via internet providers does it not?",Arne Bakken,'-,You have to have access to fibre to get 50 or 100 Gbps,03/12/2024 15:02:57,03/12/2024 15:08:12,Michael Shannon,michael.shannon@skillsoft.com
+16,We have on-premises Oracle.. Can we migrate to AWS Oracle directly with same schema structure ?  who will be managing the DBA tasks ?,Faizan Siddiqui,'-,Schema Conversion Tool,03/12/2024 15:03:03,03/12/2024 15:08:29,Michael Shannon,michael.shannon@skillsoft.com
+17,where are the test tips located?,Cindy Counavelis,'-,"It will be uploaded shortly on Percipio and github.
+Github: https://github.com/Skillsoft-Content/AWSCloud",03/12/2024 15:03:35,03/12/2024 15:06:38,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+18,Where can we find the test tips? I do not see them in the github link,BIANCA VALDEZ,'-,"It will be uploaded shortly on Percipio and github.
+Github: https://github.com/Skillsoft-Content/AWSCloud",03/12/2024 15:05:02,03/12/2024 15:06:51,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+19,"in percipio , would it be available at resources section ?",Lalitha Dantuluri,'-,Yes.,03/12/2024 15:08:49,03/12/2024 15:09:04,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+20,thanks,Lalitha Dantuluri,'-,"Please take some time to participate in the survey after the session.
+Survey: https://surveys.skillsoft.com/jfe/form/SV_6gPV6C0StdhPwIm",03/12/2024 15:09:11,03/12/2024 15:09:35,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com

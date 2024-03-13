@@ -1,0 +1,65 @@
+﻿Question Report
+Report Generated:,"Mar 13, 2024 11:01:59"
+Topic,Webinar ID,Actual Start Time,Actual Duration (minutes),# Question
+AWS Cloud Practitioner,850 803 776,"Mar 11, 2024 11:02:11",242,43
+Question Details
+#,Question,Asker Name,Asker Email,Answer,Question Time,Answered Time,Answer Name,Answer Email
+1,we can hear you. chat is disabled tho,Catherine Caterson,'-,,03/11/2024 11:04:56,,
+2,Now the chat function is disabled,Love Sharma,'-,,03/11/2024 11:05:00,,
+3,"Sure, I can hear you..  but chat is disabled",Jordi Maicas,'-,,03/11/2024 11:05:06,,
+4,"chat says it is disabled, but i did hear you",Carolyn Goebel,'-,,03/11/2024 11:05:10,,
+5,yes,Love Sharma,'-,,03/11/2024 11:05:12,,
+6,"Yes , Can hear you now",Faizan Siddiqui,'-,,03/11/2024 11:05:14,,
+7,yes,Sara Rogers,'-,,03/11/2024 11:05:25,,
+8,chat is disabled,Cindy Counavelis,'-,,03/11/2024 11:05:29,,
+9,Yes I can hear you.,A916351,'-,,03/11/2024 11:05:33,,
+10,i can hear you chat is muted though,JOSEPH DEMPSEY,'-,,03/11/2024 11:05:35,,
+11,i can hear you - chat feature is disabled ,Huda Ahmed,'-,,03/11/2024 11:05:36,,
+12,We can hear you - Chat is disabled,A468260,'-,,03/11/2024 11:05:37,,
+13,I can hear you.,Joseph Cali-Poutre,'-,,03/11/2024 11:05:37,,
+14,Hello no audio,VA066249,'-,,03/11/2024 11:05:38,,
+15,Yes we can hear you. We can't write it in the chat since it is disabled for time being,Love Sharma,'-,,03/11/2024 11:05:44,,
+16,I can hear but my chat is disabled so I can't chat.,Olivina Nzali,'-,,03/11/2024 11:05:47,,
+17,and chat is disabled :-),VA066249,'-,,03/11/2024 11:05:47,,
+18,"attendee chat is disabled, but I can hear you.",Anonymous Attendee,,,03/11/2024 11:05:52,,
+19,you have disabled attendee chat. ,A916351,'-,,03/11/2024 11:05:54,,
+20,we can hear but no chat,Dennis Perilli,'-,,03/11/2024 11:05:57,,
+21,we can't acknowledge your question if we can hear you,Cindy Counavelis,'-,,03/11/2024 11:05:57,,
+22,"It says ""The host has disabled attendee chat"" which may be why no one is responding
+",Patrick Long,'-,,03/11/2024 11:05:59,,
+23,We are able to hear you,Sakthivel V,'-,,03/11/2024 11:06:16,,
+24,Chat is disabled,Sakthivel V,'-,,03/11/2024 11:06:25,,
+25,we can hear you Michael,Sunil Sasanka Varma Kuchampudi,'-,,03/11/2024 11:06:26,,
+26,and I,Sibusiso Madolo,'-,,03/11/2024 11:08:36,,
+27,HI ,MANARANJAN NANDA,'-,Hello.,03/11/2024 11:15:04,03/11/2024 11:16:38,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+28,not able to hear your voice,MANARANJAN NANDA,'-,"If you don’t hear the audio, please click Join Audio on the bottom left hand side on the Zoom screen.",03/11/2024 11:15:23,03/11/2024 11:15:33,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+29,"if we switch to zoom, can we still see the chat?  my audio and video is intermittently freezing",Cindy Counavelis,'-,"Yes, you can see the chat starting from when you joined from zoom.",03/11/2024 11:21:50,03/11/2024 11:25:28,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+30,What is the difference between Availability Zones and Local Zones?,Roshni Poothakuzhiyil Abraham,'-,"Availability Zones (AZs) offer redundancy across a region, while Local Zones bring core services closer to users for ultra-low latency.",03/11/2024 11:34:12,03/11/2024 11:37:31,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+31,"when aws does replication into different regions, will there be latencies?",Ador Jao,'-,"Yes, when AWS replicates data across different regions, there will be latencies due to the geographical distance between the regions and the time it takes for data to travel between them.",03/11/2024 11:38:58,03/11/2024 11:40:34,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+32,why ML-AI is not SaaS?,Satheesh Sukumaran Unnithan,'-,ML-AI are broad technological concepts and capabilities rather than specific software applications or services.,03/11/2024 11:51:58,03/11/2024 11:56:26,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+33,is there a glossary for all of the acronyms,Cindy Counavelis,'-,"Yes, here is the link.
+https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html",03/11/2024 11:52:43,03/11/2024 11:55:19,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+34,"Hi, Could you please share the link to the test tips?",Safna Jalaludeen,'-,It should be with the PDFs of the slides,03/11/2024 12:37:10,03/11/2024 13:49:16,Michael Shannon,michael.shannon@skillsoft.com
+35,IaaS is clear but I am a bit confused b/w PaaS and SaaS.,Kunal Shah,'-,"PaaS provides a platform that allows customers to develop, run, and manage applications without dealing with the complexity of building and maintaining the underlying infrastructure. It typically includes development tools, middleware, and runtime environments. PaaS is beneficial for developers who want to focus on coding and application development rather than managing the infrastructure.
+
+SaaS delivers software applications over the internet on a subscription basis. Users can access the software through a web browser without worrying about installation, maintenance, or hardware requirements. SaaS is suitable for end-users who want a ready-to-use software solution without dealing with the technical details.",03/11/2024 12:43:47,03/11/2024 12:48:20,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+36,"In strategies for migrating to cloud, I believe AWS has added a 7th strategy called Relocating. Relocating
+Relocating is often referred to as lift and optimize. In this approach, you move applications to the cloud without significant changes. However, once they're in the cloud, you might transition them to cloud-centered services.
+
+For instance, after you relocate a database to the cloud, you might migrate from a hosted virtual machine (VM) to a managed database service. This provides some benefits of cloud-centered capabilities without extensive initial refactoring.",Roshni Poothakuzhiyil Abraham,'-,Thanks. Don't worry about that for this exam though.,03/11/2024 13:00:58,03/11/2024 13:49:42,Michael Shannon,michael.shannon@skillsoft.com
+37,Thank you..,Kunal Shah,'-,,03/11/2024 13:02:11,,
+38,Hi. How can I obtain the slides at the end? I am using the course through Percipio,Rikard Ndreu,'-,"You can access the Bootcamp slides from the AWS Cloud Practitioner Bootcamp channel in Percipio, please follow these steps.
+ 
+1. Log into Percipio
+2. Select Library > Skillsoft Bootcamps
+3. Select Cloud Services Bootcamp
+4. Select AWS Cloud Practitioner Bootcamp
+5. Click the Resources dropdown on the right-hand side. 
+You can also download the slides and other documents associated with the Bootcamp from the following Github repository.  Github: https://github.com/Skillsoft-Content/AWSCloud",03/11/2024 13:27:15,03/11/2024 13:27:57,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+39,I am unable to hear; no sound,ROBIN PERRY,'-,"please click Join Audio on the bottom left hand side on the Zoom screen.
+It can also be fixed by exiting and then rejoining the session.",03/11/2024 13:37:03,03/11/2024 13:38:45,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com
+40,"Hi, I’m a UX Designer trying to increase my knowledge of cloud tech. Besides being able to collaborate with dev teams, what do you think are other important benefits for a UX Designer to learn about AWS tech? ",Melissa Payne,'-,We will cover relevant UX services tomorrow an dthat should help.,03/11/2024 13:47:48,03/11/2024 13:50:13,Michael Shannon,michael.shannon@skillsoft.com
+41,"awesome, thank you!",Melissa Payne,'-,You are welcome!,03/11/2024 13:50:40,03/11/2024 13:51:28,Michael Shannon,michael.shannon@skillsoft.com
+42,is all of this routing info and what i would call network design going to be on the exam?,Cindy Counavelis,'-,Not at all. Just trying to get everyone on a level playing field,03/11/2024 14:53:48,03/11/2024 15:02:44,Michael Shannon,michael.shannon@skillsoft.com
+43,thank you,Cindy Counavelis,'-,"Please take some time to participate in the survey.
+Survey: https://surveys.skillsoft.com/jfe/form/SV_6gPV6C0StdhPwIm",03/11/2024 15:02:52,03/11/2024 15:02:58,Skillsoft Bootcamp Admin 1,content.team@skillsoft.com

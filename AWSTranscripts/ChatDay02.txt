@@ -1,0 +1,235 @@
+01:18:59	Skillsoft Bootcamp Admin 1:	If you don’t hear the audio, please click Join Audio on the bottom left hand side on Zoom screen.
+01:19:13	Kalyankumar Rajamany:	no audio
+01:19:16	A920426:	Hello, How about the yesterday's session recording?
+01:19:19	Arne Bakken:	Audio working
+01:19:23	Skillsoft Bootcamp Admin 1:	Yes it works.
+01:19:23	Prajwal mohan Jogi:	https://github.com/Skillsoft-Content/AWSCloud -> says ACCESS DENIED
+01:19:24	John Lodholz:	all good
+01:19:30	Skillsoft Bootcamp Admin 1:	If you don’t hear the audio, please click Join Audio on the bottom left hand side on the Zoom screen.
+01:19:30	Ador Jao:	crystal
+01:19:30	Rosalba Chamorro Wills:	I can hear you
+01:19:30	Fabiola Edit Horváth:	Hi there
+01:19:32	Jason Cross:	yes, I can hear
+01:19:32	Guilherme Baron:	yes, Audio is ok. Thanks
+01:19:35	Kalyankumar Rajamany:	all set, thanks
+01:19:43	Masooma Khan:	Hi I can't hear you
+01:19:46	Skillsoft Bootcamp Admin 1:	The sessions are being recorded and will be available in the Watch tab of the AWS Cloud Practitioner Bootcamp channel in Percipio within 24 to 48 hours after it's live session.
+01:19:52	John Lodholz:	what about chat from yesterday?
+01:20:14	Masooma Khan:	I have tested my speakers, I can hear sound but unable to hear Michael
+01:20:21	Skillsoft Bootcamp Admin 1:	The chat transcript will also be added to GitHub after the Bootcamp completes.
+01:20:26	Nidhiya Nair:	I can hear 
+01:20:33	Peter Heffner:	click audio setting bottom LEFT
+01:20:37	Apoorva Srinivas:	Hi please could you send the zoom link like yesterday?
+01:20:44	Warren Chu:	Audio is OK on my end
+01:20:47	Skillsoft Bootcamp Admin 1:	I would suggest trying the following direct Zoom link and passcode to connect to the session instead of joining from your training site.Please click the link below to join the webinar: https://skillsoftbootcamp.zoom.us/j/850803776?pwd=N0tFeE9xRGJXNDl6eUJtMUN4N01SQT09Passcode: 113554
+01:21:25	Skillsoft Bootcamp Admin 1:	For all technical issues you may be having please post in Q&A.
+01:23:15	Matthew Ingle:	Can you show us where to grab the slides PDF and test tips file?
+01:23:16	Walid:	When can we get thr video recording after the live ?
+01:23:30	Skillsoft Bootcamp Admin 1:	You can access the Bootcamp slides from the AWS Cloud Practitioner Bootcamp channel in Percipio, please follow these steps. 1. Log into Percipio2. Select Library > Skillsoft Bootcamps3. Select Cloud Services Bootcamp4. Select AWS Cloud Practitioner Bootcamp5. Click the Resources dropdown on the right-hand side. You can also download the slides and other documents associated with the Bootcamp from the following Github repository.  Github: https://github.com/Skillsoft-Content/AWSCloud
+01:23:47	Skillsoft Bootcamp Admin 1:	Here are the steps to access the replays once they are added.1. Log into Percipio2. Select Library > Skillsoft Bootcamps3. Select Cloud Services Bootcamp4. Select AWS Cloud Practitioner Bootcamp
+01:23:48	Safoora Seifi:	Can you please share the link for PDF.
+01:24:02	Skillsoft Bootcamp Admin 1:	Github: https://github.com/Skillsoft-Content/AWSCloud
+01:24:54	Stephanie Walton:	Is this a continuation from yesterday's class 
+01:24:55	Walid:	Can you share please thr lesson recorded link
+01:25:23	Skillsoft Bootcamp Admin 1:	Here are the steps to access the replays.1. Log into Percipio2. Select Library > Skillsoft Bootcamps3. Select Cloud Services Bootcamp4. Select AWS Cloud Practitioner Bootcamp
+01:25:27	Michael Shannon:	Well-Architected
+01:25:33	Walid:	To rewatch again after yhr class
+01:25:50	Joseph Cali-Poutre:	Sun Tzu "The Art of War"
+01:26:36	Michael Shannon:	https://aws.amazon.com/architecture/well-architected/
+01:26:46	Skillsoft Bootcamp Admin 1:	Please note the recordings will be added within 24 to 48 hours after it's live session. So, yesterdays recording will be added later today.
+01:27:51	Walid:	Yesterday recording we didn't find today as Dubai timing 
+01:28:09	Michael Shannon:	operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability
+01:28:15	Skillsoft Bootcamp Admin 1:	Yes, they are not yet added.
+01:28:34	Walid:	Ok sir thanks 
+01:32:32	Subhra Das:	Not sure if I am on mute, how do I know?
+01:32:57	Michael Shannon:	Operational excellence Design Principles
+01:33:15	Michael Shannon:	Perform operations as code
+01:33:39	Michael Shannon:	Make frequent, small, reversible changes
+01:34:02	Michael Shannon:	Refine operations procedures frequently
+01:34:13	Michael Shannon:	Anticipate failure
+01:34:18	Skillsoft Bootcamp Admin 1:	@Subhra: The microphones are muted by default for everyone.
+01:34:25	ELIZABETH VICENTE:	has the recording link from yesterday day 1 been released yet? Or are they getting released together? I tried to look for a review this morning and could not find the record session 
+01:34:29	Michael Shannon:	Learn from all operational failures
+01:35:13	Michael Shannon:	Use managed services
+01:35:23	Michael Shannon:	Implement observability for actionable insights
+01:35:41	Cynthia Counavelis:	which 2?
+01:35:46	Skillsoft Bootcamp Admin 1:	Once the recording from yesterday is ready, here are the steps to access them.1. Log into Percipio2. Select Library > Skillsoft Bootcamps3. Select Cloud Services Bootcamp4. Select AWS Cloud Practitioner Bootcamp
+01:35:49	Michael Shannon:	Perform operations as code!
+01:36:01	Michael Shannon:	Make frequent, small, reversible changes!
+01:38:46	Skillsoft Bootcamp Admin 1:	PLEASE USE Q&A PANEL TO ASK QUESTIONS RELATED TO ACCESSING RECORDINGS, BOOTCAMP RESOURCES AND FOR ANY TECHNICAL ISSUES. THANKS
+01:42:22	Jason Green:	Does an Application Load Balancer replace the need for a Transit Gateway?
+01:45:09	Angela Sukwe:	What is the definition of direct connect
+01:47:18	Michael Shannon:	802.1AE
+01:50:47	Cindy Counavelis:	can you quickly show the slide before this one please?
+01:50:51	Abhinav Vemuri:	Very cool!
+01:51:54	Angela Sukwe:	are we going to have a question on CDN
+01:52:43	Saurabh Bhardwaj:	We would love to see you with long hairs and would love to listen your music...
+01:52:54	Fabiola Horvath:	What does an edge location look like? Is it also a data center?
+01:53:27	Michael Shannon:	HOSTS
+01:54:12	Michael Shannon:	EXAM: Load balance between regions? Route 53 and Global Accelerator
+01:58:00	Prajwal mohan Jogi:	no Exam retakes after certification expiry in 2-3 years ?
+02:00:34	Nooja Musthafa:	i thought this is session 1 of 2 - but i hear many times michael is referring to "yesterday" . Am i missing a session prior to this !!
+02:01:02	Skillsoft Bootcamp Admin 1:	This is session-2 of 2 day bootcamp.
+02:01:06	John Akinpelu:	I have same doubt 
+02:01:27	Skillsoft Bootcamp Admin 1:	The session-1 was done yesterday.
+02:01:54	John Akinpelu:	Can we have the link for session 2?
+02:02:13	Nooja Musthafa:	your presentation title says session 1 to 2 !!
+02:03:00	Masooma Khan:	Same on mine it says session 1 out of 2 
+02:03:36	John Akinpelu:	Alright. Thank s
+02:05:36	Michael Shannon:	Slide 120
+02:07:37	Kalyankumar Rajamany:	NACL maintains only inbound ?
+02:09:01	Kalyankumar Rajamany:	thanks
+02:10:45	Alexsandro Cafarate Lazcano:	hello! where can i download a bootcamp  presentation?
+02:10:56	Angela Sukwe:	Please what was the question
+02:11:57	Skillsoft Bootcamp Admin 1:	You can access the Bootcamp slides from the AWS Cloud Practitioner Bootcamp channel in Percipio, please follow these steps. 1. Log into Percipio2. Select Library > Skillsoft Bootcamps3. Select Cloud Services Bootcamp4. Select AWS Cloud Practitioner Bootcamp5. Click the Resources dropdown on the right-hand side.
+02:13:19	Alexsandro Cafarate Lazcano:	thanks!!!
+02:13:37	Kalyankumar Rajamany:	so a packet has to pass through the NACL to get into the security groups - correct?
+02:13:50	Guilherme Baron:	yes
+02:14:26	Kalyankumar Rajamany:	thanks
+02:14:36	Guilherme Baron:	And the packet can pass through the NACL and goes into one Security group but gets rejected by other.
+02:26:13	Srinivas Duggi:	Hi how to avail coupon for AWS certification.
+02:28:29	Skillsoft Bootcamp Admin 1:	You can purchase exam voucher from this web page. https://aws.amazon.com/certification/certified-cloud-practitioner/
+02:33:29	Michael Shannon:	aws.amazon.com/CLI
+02:34:27	Parinita Kumar:	can a user be part of more than 1 user group ?
+02:38:33	Prajwal mohan Jogi:	grant ted view access in prod account
+02:38:41	Michael Shannon:	IAM Access Analyzer
+02:40:33	Cindy Counavelis:	don't understand what the test question may be
+02:40:53	Roxana Lucanu-Ghetu:	policy for group and role for user?
+02:41:16	CHARLES TAKAM NOULE:	thanks
+02:58:32	Michael Shannon:	you may need to refresh for audio
+03:00:16	Tania Waldeck:	😊😊
+03:00:35	Jason Green:	👍👍👍👍
+03:00:36	Murali Iyer:	Good to hear your  outspoken comments
+03:02:35	Michael Shannon:	Exam: EC2 action anomalies = CloudTrail
+03:03:12	Michael Shannon:	Exam: CloudTrail is one of the most common tools for getting insights into security events at AWS
+03:04:34	Michael Shannon:	CEDAR = Verified Access
+03:05:51	Michael Shannon:	https://aws.amazon.com/security-hub/
+03:05:58	Michael Shannon:	Exam: Use security Hub to generate a unified report across all security services
+03:06:06	Parinita Kumar:	is the logs stored when using cloudwatch?
+03:08:02	Prajwal mohan Jogi:	whats the purpose of Lambda functions ?
+03:15:45	Jason Green:	But the notion of findings is the key exam point to differentiate Guard Duty.
+03:18:24	Michael Shannon:	MACIE: Many customers will get visibility into sensitive data across S3 buckets to enhance automated remediation of data security risks
+03:32:20	Michael Shannon:	CloudFormation = IaC
+03:34:25	A885392:	Does have any difference using Json or yaml? 
+03:35:41	A885392:	thanks
+03:36:11	Arne Bakken:	WIll the sum be the same independend on if you chose upfront or pay after?
+03:38:55	Jason Green:	LOST AUDIO AND VIDEO
+03:39:02	Jason Green:	it's back
+03:39:07	Michael Shannon:	https://aws.amazon.com/ec2/instance-types/
+03:39:46	Ava Campbell:	I lost audio as well
+03:40:45	Ava Campbell:	good now
+03:41:21	Abhinav Vemuri:	maybe zoom out?
+04:26:17	Michael Shannon:	Exam: This is scaling OUT and scaling IN resources – not scaling up to a more robust compute family or instance type
+04:30:44	Jason Green:	Protocols for EBS?
+04:38:45	Michael Shannon:	Temporary Files: Ephemeral storage is an excellent place for temporary files, like system logs or files generated during batch processing.• Buffers & Caches: Ephemeral storage is often used for application buffers and caches, given the performance benefits of local disk access and the non-persistent nature of this data.• Scratch Space: If your application needs a scratch space to store intermediate data during processing, ephemeral storage is a good fit.• Replicated Database Storage: In some scenarios, ephemeral storage is used for replicated databases where the data is replicated across multiple instances and can be recovered if one instance fails.
+04:44:14	Michael Shannon:	Exam: Turn on S3 Versioning if an object was accidentally modified or deleted
+04:50:54	267516:	Hilarious
+04:58:08	Michael Shannon:	Exam: Customer uses Volume Gateway in conjunction with Windows and Linux file servers on premises to provide scalable storage for on-premises file applications with cloud recovery options. With a cached volume architecture, you get the benefit of scalable cloud storage and data protection for growing file stores that demand low latency local access for frequently used data.
+04:58:49	Michael Shannon:	https://aws.amazon.com/free/database/
+05:02:08	WILLIAM LOFTUS:	Apologies, but what was the other one besides MySQL? 
+05:02:19	267515:	PostGRE
+05:02:27	WILLIAM LOFTUS:	Thanks!
+05:04:46	Kadavil bipin Zacharia:	Please share the chat also
+05:07:39	Michael Shannon:	REDIS
+05:08:24	Jason McLennon:	Will we need to know all the types of Databases for the exam?
+05:08:37	Jason McLennon:	Thanks
+05:10:07	Michael Shannon:	Memcached
+05:10:57	Michael Shannon:	2 out of 5
+05:11:17	Michael Shannon:	Oracle Db migration to AWS?
+05:11:32	Michael Shannon:	AWS Database Migration Service (AWS DMS)
+05:11:43	Michael Shannon:	RDS for Oracle
+05:12:26	Michael Shannon:	Remote area without consistent INternet
+05:13:27	Kalyankumar Rajamany:	cant we use direct connect?
+05:13:46	Michael Shannon:	Exam: An office in a particular region doesn’t have reliable Internet connectivity = Snowball
+05:14:05	Kalyankumar Rajamany:	ok thanks
+05:14:44	Michael Shannon:	Exam: An office in a particular region doesn’t have reliable Internet connectivity = Snowball
+05:16:26	Faizan Siddiqui:	Hello Michael, What is the difference between Aurora Postgres and normal Postgres in RDS?
+05:17:25	Skillsoft Bootcamp Admin 1:	Please take some time to participate in the survey after the session.Survey: https://surveys.skillsoft.com/jfe/form/SV_6gPV6C0StdhPwIm
+05:17:53	Faizan Siddiqui:	Thank You
+05:18:02	Safna Jalaludeen:	Thank you
+05:18:05	WILLIAM LOFTUS:	Thank you Michael!
+05:18:17	Patrick Narcisse:	Thank you 
+05:18:24	OSCAR MONTEALEGRE CASTILLO:	Thank you
+05:18:42	Vikash Verma:	thank you
+05:18:48	John Ma:	Thank you
+05:18:50	Arne Bakken:	You said Direct Connect is a direct fibre connection between client and data center, did that have to be a cable placed by the provider, or could it go through a ISP?
+05:18:57	Keerthi Chenna Reddy:	 I do not see the "Test Tips" document in 
+ Library > Skillsoft Bootcamps> Cloud Services Bootcamp>Select AWS Cloud Practitioner Bootcamp > Resources . Where else could I find the Test Tips document ?
+05:18:57	CHARLES TAKAM NOULE:	Thank you 
+05:18:59	Pierre Blavier:	Concerning the database migration from on prem to AWS, is it also possible to migrate from AWS to on prem ? 
+05:19:26	Michael Shannon:	Exam: This is the correct analytics solution leveraging ML – not QuickSight
+05:19:51	Michael Shannon:	Exam: You need to search through large amounts of S3 bucket data = Amazon AthenaAmazon Polly is for deploying high-quality, natural-sounding human voices in dozens of languagesAmazon Rekognition is for analyzing millions of images, streaming, and stored videos within seconds, and augment human review tasks with artificial intelligence (AI)
+05:20:09	Michael Shannon:	Exam: This is the correct business intelligence (BI) solution answer – NO ML
+05:20:33	Michael Shannon:	Exam: AWS OpsWorks is a configuration management service that helps you configure and operate applications in a cloud enterprise by using Puppet or Chef.
+05:20:35	BIANCA VALDEZ:	Thank you!
+05:20:45	Michael Shannon:	Q: An iOS app developer wants to move their code to the AWS Cloud, which service or resource would best facilitate this effort?A: AWS CodeCommit
+05:20:57	Michael Shannon:	*On July 31, 2024, Amazon Web Services (AWS) will discontinue support for creating and viewing AWS CodeStar projects.
+05:21:33	Chandrashekar Reddy:	Thank you
+05:21:50	Rikard Ndreu:	Hi Michael. Besides S3 config exam question will in exam be any config question or is simply defining AWS services? 
+05:21:51	Paulo:	Thank you
+05:21:57	John Ma:	Thank you
+05:21:58	A468260:	Thank you very much!
+05:22:01	Alexsandro Cafarate Lazcano:	Thanks a lot !
+05:22:03	ANTHONY LANE:	Thank you
+05:22:08	Jitin Narang:	Thank you
+05:22:10	Isatou Batchilly:	Thank you!
+05:22:10	Jason McLennon:	Thank you very much
+05:22:10	Adithya Manjunath:	Thanks a lot!
+05:22:10	Deepanshu Chauhan:	Thank you !
+05:22:12	267515:	Thanks a lot, great short time guide!
+05:22:15	Alberto Martinez De Aragon Martin:	Thanks Michael!
+05:22:16	Ava Campbell:	Thank you
+05:22:17	Lauren Martin:	Thank you!
+05:22:19	Warren Chu:	Thank you!
+05:22:22	Angela Sukwe:	how to get the pdf file
+05:22:23	Kevin Arbelaez:	Wjhere are the test tips?
+05:22:23	Saigoutham Sairam:	Thank you!!
+05:22:24	John Powell:	didn't see the test tips in get hub
+05:22:25	Kalyankumar Rajamany:	Thanks Michael
+05:22:27	Rajat Kumar:	Thank you !
+05:22:27	Venkata Yugandhar Gupta Nalam:	Thank you 
+05:22:30	Ava Campbell:	where is the test tips/
+05:22:31	Meron Debela:	Thank you!
+05:22:32	Ava Campbell:	/
+05:22:34	Michael Shannon:	AWS SysOps Admin Assoc
+05:22:49	00441642:	Thanks!  Where can we find the test tips?
+05:22:55	Duanes Geter:	Thank you!
+05:22:59	Guilherme Baron:	Thanks mate!
+05:23:06	Saurabh Bhardwaj:	Thanks a lot Michael for this wonderful bootcamp
+05:23:13	Kabil Ali:	Thank You!
+05:23:20	Patrick Narcisse:	Thank you Michael
+05:23:22	Balázs Kondráth:	Thanks a lot, excellent training!
+05:23:27	William Smith:	Thank you AWS' Mark Ruffalo!
+05:23:30	William Cote:	Thank you.
+05:23:31	Senecca Johnson:	Thank you
+05:23:31	Ador Jao:	Thanks Michael!
+05:23:32	Shipra Kalra:	Thank you Mike! 
+05:23:32	A567242:	Thank-you - great class 
+05:23:34	Mukta Maheshwari:	Thank you!
+05:23:37	Mari-Bernadette:	Thank you - great course!!
+05:23:37	267515:	👏
+05:23:39	K Roger:	Michael and Irpham Thank You
+05:23:41	Murali Iyer:	Thank you so much for your kind words
+05:23:44	Rikard Ndreu:	THANK YOU :-)
+05:23:44	Roxana Lucanu-Ghetu:	Thanks a lot! 
+05:23:46	Cordelia Omonkhegbe:	Thank you
+05:23:46	Nirmal Singh:	Thank you!
+05:23:48	Ankit Ranjan:	Thank you 
+05:23:57	Torrey Price:	Thank you for the lesson!
+05:23:58	Cindy Counavelis:	where will it be though?
+05:23:58	Mikyll Matondo:	Thank you.
+05:23:59	Nidhiya Nair:	Thank you !!
+05:24:03	Anil Moolamkuzhiyil Scariah:	can we share the link once again 
+05:24:08	WILLIAM LOFTUS:	Thank you so much! You are the man, and we wish you all the best too!
+05:24:09	Shruti Kumbhar:	Thank you
+05:24:12	Skillsoft Bootcamp Admin 1:	Please take some time to participate in the survey .Survey: https://surveys.skillsoft.com/jfe/form/SV_6gPV6C0StdhPwIm
+05:24:14	Tania Waldeck:	Thank you Mike.  Appreciate the examples and tips.
+05:24:24	Sandeep Basu:	Thank you very much.
+05:24:40	Ranjit Prusty:	Thank you for your 
+05:25:47	John Lodholz:	Keep on rockin' !
+05:26:04	Skillsoft Bootcamp Admin 1:	Please take some time to participate in the survey Survey: https://surveys.skillsoft.com/jfe/form/SV_6gPV6C0StdhPwIm
+05:26:15	Michael Crowder:	thanks!!
+05:26:17	Gunasekaran Manickam:	thanks
+05:26:19	Senecca Johnson:	ty
+05:26:19	Joseph Cali-Poutre:	Thank you!
+05:26:21	Murali Iyer:	Thanks again and have a good day
